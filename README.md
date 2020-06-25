@@ -1,4 +1,4 @@
-# Dashboard-test
+# wallet-test
 
 ### Go **[here](https://sharp-johnson-8bcc7a.netlify.app/)** for live demo.
 
