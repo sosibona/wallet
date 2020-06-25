@@ -1,6 +1,6 @@
 # Dashboard-test
 
-### Go **** for live demo.
+### Go **[here](https://sharp-johnson-8bcc7a.netlify.app/)** for live demo.
 
 # Installing
 
@@ -16,9 +16,7 @@ Run `npm install`
 + CSS3
 + Flexbox
 + Sass (Scss)
-+ BEM methodology
 + JS ES6
 + ReactJS
 + Redux
-+ Material UI
-+ Formik
++ Redux-thunk
